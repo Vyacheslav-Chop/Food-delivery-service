@@ -33,10 +33,6 @@
     position: relative;
   }
 
-  .desc-box {
-    margin-right: 40px;
-  }
-
   .hero-box {
     display: flex;
     align-items: center;
